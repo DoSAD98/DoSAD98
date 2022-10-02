@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dima Osadchy.
+- 👋 Hi, I’m Dima Osadchyi.
 - 🌱 I’m currently learning JavaScript.
 
 
